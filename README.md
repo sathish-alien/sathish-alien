@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats-sathish-aliens-projects.vercel.app/api/top-langs?username=sathish-alien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
  
   
-![](https://github-readme-stats-sathish-aliens-projects.vercel.app/?user=sathish-alien&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sathish-alien&theme=dark&hide_border=false)<br/>
 <br clear="both">
 
  
