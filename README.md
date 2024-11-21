@@ -12,6 +12,7 @@
  
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sathish-alien&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathish-alien&theme=github-green-purple&border_radius=2.3&mode=weekly)]
 <br clear="both">
 
  
