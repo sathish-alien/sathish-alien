@@ -8,7 +8,7 @@
 ###
  
   <img src="https://github-readme-stats-sathish-aliens-projects.vercel.app/api?username=sathish-alien&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sathish-aliens-projects.vercel.app/api/top-langs?username=sathish-alien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sathish-aliens-projects.vercel.app/api/top-langs?username=sathish-alien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
  
   
 
